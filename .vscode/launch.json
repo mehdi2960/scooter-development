@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "scooter-development",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "scooter-development (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "scooter-development (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "custom_logger",
+            "cwd": "packages\\custom_logger",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "custom_logger (profile mode)",
+            "cwd": "packages\\custom_logger",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "custom_logger (release mode)",
+            "cwd": "packages\\custom_logger",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "hive_storage",
+            "cwd": "packages\\hive_storage",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "hive_storage (profile mode)",
+            "cwd": "packages\\hive_storage",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "hive_storage (release mode)",
+            "cwd": "packages\\hive_storage",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "persian_tools",
+            "cwd": "packages\\persian_tools",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "persian_tools (profile mode)",
+            "cwd": "packages\\persian_tools",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "persian_tools (release mode)",
+            "cwd": "packages\\persian_tools",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "web_service",
+            "cwd": "packages\\web_service",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "web_service (profile mode)",
+            "cwd": "packages\\web_service",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "web_service (release mode)",
+            "cwd": "packages\\web_service",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

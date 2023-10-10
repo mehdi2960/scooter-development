@@ -1,0 +1,30 @@
+class RoutesPath {
+  RoutesPath._();
+  static const String splash = '/';
+  static const String onboarding = '/onboarding';
+  static const String home = '/home';
+  static const String login = '/login';
+  static const String register = '/register';
+  static const String otp = '/otp';
+  static const String scanCode = '/scanCode';
+  static const String tripWillStart = '/tripWillStart';
+  static const String qrWidget = '/qrWidget';
+  static const String safePonis = '/safePonis';
+  static const String howToRide = '/howToRide';
+  static const String drawer = '/drawer';
+  static const String aboutUs = '/settings/aboutUs';
+  static const String support = '/settings/support';
+  static const String breakdownReport = '/settings/support/breakdownReport';
+  static const String wrongParkReport = '/settings/support/wrongParkReport';
+  static const String accidentReport = '/settings/support/accidentReport';
+  static const String profile = '/settings/profile';
+  static const String rideHistory = '/settings/rideHistory';
+  static const String messages = '/settings/profile/messages';
+  static const String userInfo = '/settings/profile/userInfo';
+  static const String paymentHistory = '/settings/paymentHistory';
+  static const String settingsScreen = '/settingsScreen';
+  static const String endRideScreen = '/endRideScreen';
+  static const String tripscreen = '/tripscreen';
+  static const String detailScreen = '/detailScreen';
+  static const String nationalCode = '/nationalCodeScreen';
+}

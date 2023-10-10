@@ -1,0 +1,1 @@
+enum SessionState { inSession, none }
